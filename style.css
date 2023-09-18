@@ -1,0 +1,9 @@
+h2{color: aliceblue;}
+
+body{
+    text-align: center;
+    font-variant: small-caps;
+    background-image:url(backg.jpg);
+    background-attachment: fixed; 
+    background-size: cover;
+}
